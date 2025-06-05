@@ -3,12 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Java Playwright API Test Automation</title>
-  <style>
-
-    h1, h2, h3 { color: #1954ad; }
-
-    
-  </style>
 </head>
 <body>
 
