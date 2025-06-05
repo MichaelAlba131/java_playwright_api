@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Java Playwright API Test Automation</title>
-</head>
 <body>
 
 <h1>🧪 Java Playwright API Test Automation</h1>
