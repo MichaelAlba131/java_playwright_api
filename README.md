@@ -53,27 +53,19 @@ Este projeto visa entregar uma estrutura robusta de automação de testes de API
 
 <h2>🛠️ Como Executar</h2>
 
-<pre><code class="language-bash"># Clone o projeto
-git clone &lt;seu-repositorio&gt;
+#### Clone o projeto
+```bash
+git clone https://github.com/MichaelAlba131/java_playwright_api.git
 cd java_playwright_api
+```
 
-# Execute os testes (os relatórios HTML e Allure serão gerados automaticamente)
-mvn clean test
-</code></pre>
-
-<ul>
-  <li>Os relatórios HTML estarão em: <code>target/cucumber/html/index.html</code></li>
-  <li>O relatório do Allure pode ser servido via:
-<pre><code class="language-bash">allure serve target/allure-results
-</code></pre>
-  </li>
-</ul>
-
-<hr>
-
+#### Execute os testes (os relatórios HTML e Allure serão gerados automaticamente)
+```bash
+   mvn clean test
+```
+  
 <h2>💎 Principais Funcionalidades</h2>
 <ul>
-  <li><strong>Framework 100% orientado a boas práticas de QA</strong></li>
   <li>Configuração simples e objetiva para novos endpoints</li>
   <li>Geração de relatórios detalhados Allure e Cucumber</li>
   <li>Suporte a paralelismo de execução de testes</li>
