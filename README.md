@@ -14,7 +14,7 @@
 
 <h2>✨ Visão Geral</h2>
 <p>
-Este projeto foi desenvolvido por um QA Engineer Sênior e visa entregar uma estrutura robusta de automação de testes de APIs utilizando:
+Este projeto visa entregar uma estrutura robusta de automação de testes de APIs utilizando:
 </p>
 <ul>
   <li><strong>Java 17</strong></li>
