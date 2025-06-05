@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <body>
 
-<h1>🧪 Java Playwright API Test Automation</h1>
+# 🎯 Automação de Testes de API com Java Playwright: BDD, Paralelismo e Relatórios
 
 <div>
   <span class="badge">🎯 Maven</span>
